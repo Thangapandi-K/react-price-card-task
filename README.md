@@ -7,7 +7,7 @@
 
 ---
 
-- Stored datas of cards in [App.jsx](./src/App.jsx) and using `map` method and sent the datas through `props`. 
+- Stored datas of cards in [App.jsx](./src/App.jsx) and using `map` method sent the datas through `props`. 
 
 - Received the datas in [Card.jsx](./src/components/Card.jsx) component and compiled them to create card. Also used `conditional rendering` and `conditional styling` to differentiate the features according to the price.
 
