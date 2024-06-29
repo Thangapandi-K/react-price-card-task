@@ -13,4 +13,4 @@
 
 - Used [App.css](./src/App.css) and `bootstrap` styling. Also used `fontawesome icons`
 
-- [Click here] to get the deployed website.
+- [Click here](https://price-card-task-chella.netlify.app) to get the deployed website.
